@@ -22,6 +22,8 @@
   
   To use this application, the user can simply open Insomnia and type the appropriate endpoint in the correct route format. In order to add products, categories, or tags, the user must ensure that the new addition is in the appropriate JSON format.
   
+  Included is a link to a walkthrough video showing how to use the application: https://drive.google.com/file/d/1OluGlwOTLx0xaus7ffycNSEafZds3lGX/view
+  
   ## Contributing
   
   Others can contribute to this project by adding more endpoints/routes, as well as by creating a front-end to display the information manipulated in the back-end.
